@@ -7,8 +7,8 @@ The other application is denoising data. We notice that noise does not affect th
 * Run the cells in [Autoencoders.ipnyb](https://github.com/shrawansapre/Autoencoders/blob/master/Autoencoders.ipynb) file.
 
 ## Requirements
-*Python version: [3.6.6](https://www.python.org/downloads/release/python-366/)
+* Python version: [3.6.6](https://www.python.org/downloads/release/python-366/)
 
-*Python Libraries: numpy (1.15.1), matplotlib (2.2.3), keras, tensorflow
+* Python Libraries: numpy (1.15.1), matplotlib (2.2.3), keras, tensorflow
 
 P.S. Code still under construction. 
